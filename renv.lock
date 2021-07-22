@@ -107,13 +107,6 @@
       "Repository": "CRAN",
       "Hash": "e031418365a7f7a766181ab5a41a5716"
     },
-    "RSQLite": {
-      "Package": "RSQLite",
-      "Version": "2.2.7",
-      "Source": "Repository",
-      "Repository": "CRAN",
-      "Hash": "71f19d00a7736b24492fb26b483bc450"
-    },
     "RSelenium": {
       "Package": "RSelenium",
       "Version": "1.7.7",
